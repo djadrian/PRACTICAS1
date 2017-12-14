@@ -1,0 +1,15 @@
+{
+  "name": "uno",
+  "version": "1.1.1",
+  "description": "app1",
+  "main": "server.js",
+  "author": "adrian ramos",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "mongoose": "4.10.8",
+    "morgan": "^1.9.0"
+  }
+}
